@@ -2,7 +2,7 @@
    
 text-align: center;
 }
-.wrap {
+div {
    
 position:absolute;
      width:300px;       
@@ -14,8 +14,4 @@ position:absolute;
 
 }
 
-p {
-    font-family: "Times New Roman";
-    font-size: 20px;
-}
 
