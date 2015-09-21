@@ -1,23 +1,21 @@
 html, body {
-	height:100%;
+	height:100%; 
 	text-align:center;
 }
 #otazky {
 	position:relative;
-     width:400px;       
-     left:50%;
-     margin:0 0 0 -200px;
-     height:300px;
+	left:50%;
+	width:400px;       
+	margin:0 0 0 -200px;
 
-     text-align: left;
+         text-align: left;
 	
 }
 #odkazy {
    position:relative;
-     width:300px;       
-     left:50%;
-     margin:0 0 0 -150px;
-     height:300px;
+	left:50%;
+	width:300px;       
+	margin:0 0 0 -150px;
 
      text-align: left;
 }
